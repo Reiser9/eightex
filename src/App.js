@@ -73,9 +73,7 @@ const App = () => {
                         </p>
                     </div>
 
-                    <div className="mobile__car--inner">
-                        <img src="/assets/img/car-mobile.png" alt="Машина" className="main__inner--bg--mobile" />
-                    </div>
+                    <img src="/assets/img/car-mobile.png" alt="Машина" className="main__inner--bg--mobile" />
 
                     <div className="main__text--mobile">
                         <p className="main__social--text">
